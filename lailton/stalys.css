@@ -1,0 +1,26 @@
+body {
+    color: blueviolet;
+    background-color: black;
+}
+ul{
+    display: flex;
+    justify-content: space-between;
+    list-style-type:none ;
+    align-items: center;
+    padding: 19px;
+}
+
+a {
+    color:rgb(133, 21, 108);
+    text-decoration: none;
+}
+img{
+    align-self: center;
+    width: 100px;
+    height: 100px; 
+    border-radius: 50%;
+    border: 6px solid rgb(63, 13, 63);
+}
+.center{
+    text-align: center;
+}
